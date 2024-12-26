@@ -1,2 +1,15 @@
-# TO-DO-LIST-AP
-A Python-based To-Do list app with a graphical user interface (GUI) built using tkinter. This app allows users to manage tasks, set due dates, priorities, and categories. It also includes features like task searching, sorting by priority or due date, and saving/loading tasks from a file. The app provides an intuitive and simple interface
+# To-Do List Application
+
+This is a Python-based To-Do list app with a GUI built using `tkinter`.
+
+## Features:
+- Add, edit, and delete tasks.
+- Sort tasks by priority or due date.
+- Save tasks to a file and load them back.
+- Search tasks by name.
+
+## How to run:
+1. Make sure you have Python installed on your system.
+2. Install the necessary libraries by running:
+   ```bash
+   pip install tkinter
